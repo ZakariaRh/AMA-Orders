@@ -1,0 +1,5 @@
+{
+  "name": "Comanda Restaurant Ecosystem",
+  "description": "A synchronized, role-based mobile application for restaurant management, featuring real-time order tracking, role-specific dashboards, and owner analytics.",
+  "requestFramePermissions": ["camera"]
+}
